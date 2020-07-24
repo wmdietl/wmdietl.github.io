@@ -1,4 +1,4 @@
-# Werner Dietl
+# Information
 
 ## University of Waterloo
 
