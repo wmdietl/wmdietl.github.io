@@ -8,7 +8,7 @@ For most information see my
 
 ## EISOP Framework
 
-The [Enforcing, Inferring, and Synthesizing Optional Properties (EISOP) Framework](https://eisop.uwaterloo.ca/) project
+The [Enforcing, Inferring, and Synthesizing Optional Properties (EISOP) Framework](https://eisop.github.io/) project
 aims to provide a unified framework for optional properties in Java.
 
 
